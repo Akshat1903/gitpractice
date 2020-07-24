@@ -8,6 +8,11 @@ html,body{
   padding: 0;
 }
 
+<<<<<<< HEAD
 nav{
   height: 100px;
+=======
+p{
+  font-size: 20px;
+>>>>>>> cab30c1c34ba8e036d7552d080292940e0845c17
 }
