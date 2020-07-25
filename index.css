@@ -16,3 +16,19 @@ p{
   font-size: 80px;
   color: orange;
 }
+
+
+nav ul li a p:hover{
+  background-color: #345c98;
+  color: white;
+}
+
+.checkbtn{
+  font-size: 30px;
+  color: #345c98;
+  float: right;
+  line-height: 80px;
+  margin-right: 40px;
+  cursor: pointer;
+  display: none;
+}
